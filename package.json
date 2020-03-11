@@ -1,5 +1,5 @@
 {
-  "name": "geofire",
+  "name": "fabricar-geo",
   "description": "Location-based querying and filtering using Firebase",
   "version": "5.0.1",
   "scripts": {
