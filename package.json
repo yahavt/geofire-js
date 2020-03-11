@@ -48,7 +48,7 @@
     "@types/node": "^10.12.21",
     "chai": "^4.2.0",
     "coveralls": "^3.0.2",
-    "firebase": "5.x.x",
+    "firebase": "7.10.0",
     "jsdom": "^13.2.0",
     "jsdom-global": "^3.0.2",
     "mocha": "^5.2.0",
