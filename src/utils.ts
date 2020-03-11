@@ -1,7 +1,7 @@
 import { GeoFireTypes } from './GeoFireTypes';
 
 // Default geohash length
-export const GEOHASH_PRECISION = 10;
+export const GEOHASH_PRECISION = 20;
 
 // Characters used in location geohashes
 export const BASE32 = '0123456789bcdefghjkmnpqrstuvwxyz';
@@ -13,7 +13,7 @@ export const EARTH_MERI_CIRCUMFERENCE = 40007860;
 export const METERS_PER_DEGREE_LATITUDE = 110574;
 
 // Number of bits per geohash character
-export const BITS_PER_CHAR = 5;
+export const BITS_PER_CHAR = 4;
 
 // Maximum length of a geohash in bits
 export const MAXIMUM_BITS_PRECISION = 22 * BITS_PER_CHAR;
