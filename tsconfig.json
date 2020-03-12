@@ -9,7 +9,7 @@
     ],
     "moduleResolution": "node",
     "noImplicitAny": false,
-    "outDir": "dist",
+    "outDir": "geofire-dist",
     "sourceMap": false,
     "target": "es5",
     "typeRoots": [

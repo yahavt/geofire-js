@@ -1,7 +1,7 @@
 {
   "name": "fabricar-geo",
   "description": "Location-based querying and filtering using Firebase",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "scripts": {
     "build": "rollup -c",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
@@ -26,12 +26,12 @@
     "realtime",
     "geolocation"
   ],
-  "main": "dist/index.cjs.js",
-  "browser": "dist/geofire.min.js",
-  "module": "dist/index.esm.js",
-  "typings": "dist/index.d.ts",
+  "main": "geofire-dist/index.cjs.js",
+  "browser": "geofire-dist/geofire.min.js",
+  "module": "geofire-dist/index.esm.js",
+  "typings": "geofire-dist/index.d.ts",
   "files": [
-    "dist/**",
+    "geofire-dist/**",
     "LICENSE",
     "README.md",
     "package.json"

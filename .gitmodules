@@ -1,0 +1,3 @@
+[submodule "geofire-dist"]
+	path = geofire-dist
+	url = https://github.com/yahavt/geofire-dist.git

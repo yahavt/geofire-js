@@ -95,4 +95,4 @@ $ gulp test      # just test
 $ gulp watch     # lint and build whenever source files change
 ```
 
-The output files - `geofire.js` and `geofire.min.js` - are written to the `/dist/` directory.
+The output files - `geofire.js` and `geofire.min.js` - are written to the `/geofire-dist/` directory.
